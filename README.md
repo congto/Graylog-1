@@ -27,4 +27,4 @@ This shell script installs all Graylog components (server and web) on one server
   - `~/install_graylog.sh`
 
 ## Contact
-Feel free to contact me by mail (mikael.andre.1989@gmail.com) or Github if you any issues or suggestions.
+Feel free to contact me by mail or Github if you any issues or suggestions.
